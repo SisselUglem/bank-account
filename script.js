@@ -1,5 +1,7 @@
 // BANK ACCOUNT
 
+//Qustion, why use parse float in deposit- and withdrawal-function: It converts the string to a number.
+
 // OBJEKT
 const account = {
   accountName: "Account one",
@@ -82,4 +84,4 @@ function atm() {
 
 atm();
 
-//Why Parse float? ANWSER..._______________
+
